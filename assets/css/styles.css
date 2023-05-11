@@ -82,7 +82,7 @@ font-family: var(--logo-font);
  
 }
 .form-control{
-  width: 50em;
+  width: 20em;
 }
 .btn{
   background-color: var(--button-color);
